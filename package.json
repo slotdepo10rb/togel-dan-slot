@@ -1,0 +1,18 @@
+{
+  "name": "togel-dan-slot",
+  "main": "./lib/togel-dan-slot",
+  "version": "1.0.0",
+  "description": "Rahasia Cheat Daftar Bo Togel Dan Slot Yang Lagi Gacor Sekarang",
+  "keywords": ["bandar slot","toptrend gaming","slot pg soft","toptrend gaming slot","slot pragmatic play","joker gaming"],
+
+  "activationCommands": {
+    "atom-workspace": "togel-dan-slot:toggle"
+  },
+  "repository": "https://github.com/slotdepo10rb/togel-dan-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

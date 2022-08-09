@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle togel-dan-slot",
+        "command": "togel-dan-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "togel-dan-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "togel-dan-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

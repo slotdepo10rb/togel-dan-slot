@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Cara Depo Daftar Bo Togel Dan Slot Gampang Win](https://atom.io/packages/togel-dan-slot)
-## :ok_hand: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/promo/) :snowflake: <<< 
-## :8ball: klik untuk [Daftar Sekarang](https://agentotoplay.net/promo/) :cake: <<< 
-## :star: klik untuk [Dapatkan Akun Gacor](https://agentotoplay.net/register/) :star2: <<< 
+## :ok_hand: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/promo/) :snowflake: <<< 
+## :8ball: klik untuk [Daftar Sekarang](https://golinkurl.github.io/promo/) :cake: <<< 
+## :star: klik untuk [Dapatkan Akun Gacor](https://golinkurl.github.io/register/) :star2: <<< 
 
 ## Informasi Situs /Server Kami : 
 
